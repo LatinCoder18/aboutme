@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre Mi </h3>
 
 - 🤔 &nbsp; Me encuentro explorando nuevas tecnologías y creando contenido para mi blog.
-- 🎓 &nbsp; Estudio **Ingeniería Informática** en <a href="https://upr.edu.cu">Universidad de Pinar del Río</a>.
+- 🎓 &nbsp; Estudio **Ingeniería Informática** en la <a href="https://upr.edu.cu">Universidad de Pinar del Río</a>.
 - 💼 &nbsp; Soy blogger  **Desarrollador de software** en <a href="https://www.elitecnologica.com">Élite Tecnológica</a>
 - 🌱 &nbsp; Me encuentro aprendiendo **Backend, Blockchain, IOT, Domótica**.
 
@@ -37,9 +37,9 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 <h3> :earth_americas: &nbsp;Dónde puede encontrarme: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/LatinCoder18)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avaldesa007@gmail.com)](mailto:avaldesa007@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LatinCoder18)
 
